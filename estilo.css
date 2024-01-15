@@ -14,3 +14,14 @@ h1{
     justify-content: center;
     font-size: 40px;
 }
+
+main{
+    display: flex;
+    justify-content: center;
+}
+
+img{
+    margin-top: -700px;
+    margin-left: 220px;
+    
+}
